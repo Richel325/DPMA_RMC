@@ -1,0 +1,75 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Richel325.github.io/DPMA_RMC/manifests/dpma_rmc_manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "[Click to edit label]",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://e4469030-848e-4772-9885-42d376d2e015",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://070778e6-16ca-4147-993d-bf9d02ddb535",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 2089,
+      "width" : 2981,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://809902e6-fb83-4dba-8d9a-d0cf19c31fcf",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://richel325.github.io/DPMA_RMC/images/RS9693_2017-49_001-17_cr/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://richel325.github.io/DPMA_RMC/images/RS9693_2017-49_001-17_cr",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2089,
+          "width" : 2981
+        },
+        "on" : "http://070778e6-16ca-4147-993d-bf9d02ddb535"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://fce7c0f3-8d4d-4a9c-99d3-cd82d5f7301d",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 3385,
+      "width" : 4263,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://3015615e-b7ea-4906-870f-cc9b1f35a2ec",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://richel325.github.io/DPMA_RMC/images/RS30948_2013-53_001/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://richel325.github.io/DPMA_RMC/images/RS30948_2013-53_001",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3385,
+          "width" : 4263
+        },
+        "on" : "http://fce7c0f3-8d4d-4a9c-99d3-cd82d5f7301d"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
