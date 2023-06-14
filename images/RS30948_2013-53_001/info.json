@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 134,
+    "height" : 106
+  }, {
+    "width" : 267,
+    "height" : 212
+  }, {
+    "width" : 533,
+    "height" : 424
+  }, {
+    "width" : 1066,
+    "height" : 847
+  }, {
+    "width" : 2132,
+    "height" : 1693
+  }, {
+    "width" : 4263,
+    "height" : 3385
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 4263,
+  "@id" : "https://Richel325.github.io/DPMA_RMC/images/RS30948_2013-53_001",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3385
+}
