@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 94,
+    "height" : 66
+  }, {
+    "width" : 187,
+    "height" : 131
+  }, {
+    "width" : 373,
+    "height" : 262
+  }, {
+    "width" : 746,
+    "height" : 523
+  }, {
+    "width" : 1491,
+    "height" : 1045
+  }, {
+    "width" : 2981,
+    "height" : 2089
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2981,
+  "@id" : "https://Richel325.github.io/DPMA_RMC/images/RS9693_2017-49_001-17_cr",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 2089
+}
