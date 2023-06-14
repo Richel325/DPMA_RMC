@@ -2,14 +2,14 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://Richel325.github.io/DPMA_RMC/manifests/dpma_rmc_manifest.json",
   "@type" : "sc:Manifest",
-  "label" : "[Click to edit label]",
+  "label" : "Who and What is America?",
   "metadata" : [ ],
   "description" : [ {
-    "@value" : "[Click to edit description]",
+    "@value" : "Problematizing photographs of the Depression and post-Depression eras in the American imagination",
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
-  "attribution" : "[Click to edit attribution]",
+  "attribution" : "DPMA Summer Retreat Experiment, 2023",
   "sequences" : [ {
     "@id" : "http://e4469030-848e-4772-9885-42d376d2e015",
     "@type" : "sc:Sequence",
