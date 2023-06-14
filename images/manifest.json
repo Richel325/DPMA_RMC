@@ -1,0 +1,66 @@
+{
+  "id" : "https://Richel325.github.io/DPMA_RMC/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in Richel325/DPMA_RMC project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 2981,
+    "id" : "https://Richel325.github.io/DPMA_RMC/images/RS9693_2017-49_001-17_cr/canvas/",
+    "label" : {
+      "none" : [ "RS9693_2017-49_001-17_cr" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://Richel325.github.io/DPMA_RMC/images/RS9693_2017-49_001-17_cr/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://Richel325.github.io/DPMA_RMC/images/RS9693_2017-49_001-17_cr/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 94,
+              "height" : 66
+            }, {
+              "width" : 187,
+              "height" : 131
+            }, {
+              "width" : 373,
+              "height" : 262
+            }, {
+              "width" : 746,
+              "height" : 523
+            }, {
+              "width" : 1491,
+              "height" : 1045
+            }, {
+              "width" : 2981,
+              "height" : 2089
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 2981,
+            "@id" : "https://Richel325.github.io/DPMA_RMC/images/RS9693_2017-49_001-17_cr",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 2089
+          } ],
+          "format" : "image/jpeg",
+          "width" : 2981,
+          "id" : "https://Richel325.github.io/DPMA_RMC/images/RS9693_2017-49_001-17_cr/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 2089
+        },
+        "target" : "https://Richel325.github.io/DPMA_RMC/images/RS9693_2017-49_001-17_cr/canvas/"
+      } ]
+    } ],
+    "height" : 2089
+  } ]
+}
