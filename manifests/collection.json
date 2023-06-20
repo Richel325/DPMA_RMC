@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Richel325.github.io/DPMA_RMC/manifests/dpma_rmc_manifest.json",
     "label" : "[Click to edit label]"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Richel325.github.io/DPMA_RMC/manifests/levinemanifest.json",
+    "label" : "[Click to edit label]"
   } ]
 }
