@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 87,
+    "height" : 46
+  }, {
+    "width" : 173,
+    "height" : 92
+  }, {
+    "width" : 345,
+    "height" : 183
+  }, {
+    "width" : 690,
+    "height" : 366
+  }, {
+    "width" : 1380,
+    "height" : 732
+  }, {
+    "width" : 2760,
+    "height" : 1464
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2760,
+  "@id" : "https://Richel325.github.io/DPMA_RMC/images/AfterWalkerEvansLevine",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1464
+}
