@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 4309,
+    "id" : "https://Richel325.github.io/DPMA_RMC/images/master-pnp-fsa-8a44000-8a44500-8a44521u/canvas/",
+    "label" : {
+      "none" : [ "master-pnp-fsa-8a44000-8a44500-8a44521u" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://Richel325.github.io/DPMA_RMC/images/master-pnp-fsa-8a44000-8a44500-8a44521u/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://Richel325.github.io/DPMA_RMC/images/master-pnp-fsa-8a44000-8a44500-8a44521u/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 135,
+              "height" : 94
+            }, {
+              "width" : 270,
+              "height" : 188
+            }, {
+              "width" : 539,
+              "height" : 375
+            }, {
+              "width" : 1078,
+              "height" : 749
+            }, {
+              "width" : 2155,
+              "height" : 1497
+            }, {
+              "width" : 4309,
+              "height" : 2994
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 4309,
+            "@id" : "https://Richel325.github.io/DPMA_RMC/images/master-pnp-fsa-8a44000-8a44500-8a44521u",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 2994
+          } ],
+          "format" : "image/jpeg",
+          "width" : 4309,
+          "id" : "https://Richel325.github.io/DPMA_RMC/images/master-pnp-fsa-8a44000-8a44500-8a44521u/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 2994
+        },
+        "target" : "https://Richel325.github.io/DPMA_RMC/images/master-pnp-fsa-8a44000-8a44500-8a44521u/canvas/"
+      } ]
+    } ],
+    "height" : 2994
+  }, {
     "width" : 2760,
     "id" : "https://Richel325.github.io/DPMA_RMC/images/AfterWalkerEvansLevine/canvas/",
     "label" : {
